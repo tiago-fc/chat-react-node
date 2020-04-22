@@ -7,7 +7,7 @@ Execute o comando abaixo para que o servidor do chat seja iniciado
 npm start
 ```
 
-c
+## Depuração
 Para depurar, execute o comando abaixo ou utilize o VS Code com as configurações já realizadas
 
 ```bash
