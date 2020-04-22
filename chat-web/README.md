@@ -24,7 +24,10 @@ npm test
 ## Como utilizar o Chat
 
 1) Após iniciar a aplicação, será aberto a página do Chat no browser. No caso foi testado no Chrome.
-2) Irá abrir a tela inicial, onde você deverá colocar seu apelido, e scolher uma das salas  existentes e entrar nela.
+2) Irá abrir a tela inicial, onde você poderá:
+  2.1) Escolher seu apelido.
+  2.2) Criar uma nova sala com nome desejado.
+  2.3) Escolher a sala que deseja acessar.
 3) Na sala do chat, você poderá enviar mensagens públicas e privadas. Caso seja privada, selecione o usuário desejado e então envie a mensagem.
 4) Para sair da página e acessar outra, é só clicar no botão 'Sair da Sala'
 
