@@ -27,3 +27,9 @@ npm test
 2) Irá abrir a tela inicial, onde você deverá colocar seu apelido, e scolher uma das salas  existentes e entrar nela.
 3) Na sala do chat, você poderá enviar mensagens públicas e privadas. Caso seja privada, selecione o usuário desejado e então envie a mensagem.
 4) Para sair da página e acessar outra, é só clicar no botão 'Sair da Sala'
+
+
+## License
+(The MIT License)
+
+Copyright (c) 2020 Tiago Carvalho

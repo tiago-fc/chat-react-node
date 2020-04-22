@@ -19,3 +19,8 @@ Execute o comando abaixo**npm test** para execução dos testes e visualizar a c
 ```bash
 npm test
 ```
+
+## License
+(The MIT License)
+
+Copyright (c) 2020 Tiago Carvalho
