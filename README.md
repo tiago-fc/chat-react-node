@@ -4,5 +4,5 @@ Exemplo de chat utilizando react hooks, node e socket.io
 ## Cliente
 O cliente do chat foi desenvolvido com react-hooks + socket.io client. Está disponível na pasta chat-web
 
-## Cliente
+## Server
 O cliente do chat foi desenvolvido com node + socket.io server. Está disponível na pasta chat-server
