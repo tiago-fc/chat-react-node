@@ -1,9 +1,13 @@
+## Pré-Requisitos
+
+ 1) Instalação do NodeJS: https://nodejs.org
 
 ## Como iniciar o servidor
 Instalar nodemon caso deseje depurar: **npm i -g nodemon**
-Execute o comando abaixo para que o servidor do chat seja iniciado
+Execute os comandos abaixo para que o servidor do chat seja iniciado
 
 ```bash
+npm install
 npm start
 ```
 

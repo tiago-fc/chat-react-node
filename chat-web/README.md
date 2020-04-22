@@ -1,9 +1,10 @@
 
 ## Como iniciar o chat
 Instalar nodemon caso deseje depurar: **npm i -g nodemon**
-Execute o comando abaixo para que o servidor do chat seja iniciado
+Execute os comandos abaixo para que o servidor do chat seja iniciado
 
 ```bash
+npm install
 npm start
 ```
 
