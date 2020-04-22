@@ -8,6 +8,8 @@ npm install
 npm start
 ```
 
+Após iniciado, você poderá acessar o chat em **várias abas do navegador (Testado no Chrome)**, entrando com apelidos diferentes na mesma sala e em salas diferentes para ver as interações acontecerem.
+
 ## Depuração
 Para depurar, execute o comando abaixo ou utilize o VS Code com as configurações já realizadas
 
