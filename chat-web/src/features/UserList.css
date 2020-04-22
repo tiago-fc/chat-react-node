@@ -1,0 +1,12 @@
+.user-list {
+    padding: 0 0 0 10px;
+    margin: 0;
+    height: 300px;
+    background: white;
+    border: 1px solid black;
+    flex: 4;
+}
+
+.list-group {
+    width:80%;
+}
