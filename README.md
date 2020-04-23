@@ -6,3 +6,8 @@ O cliente do chat foi desenvolvido com react-hooks + socket.io client. Está dis
 
 ## Server
 O cliente do chat foi desenvolvido com node + socket.io server. Está disponível na pasta chat-server
+
+## License
+(The MIT License)
+
+Copyright (c) 2020 Tiago Carvalho
