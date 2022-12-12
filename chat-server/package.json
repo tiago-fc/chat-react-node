@@ -11,7 +11,7 @@
     "test": "jest --runInBand"
   },
   "dependencies": {
-    "express": "^4.14.0",
+    "express": "^4.17.3",
     "node-localstorage": "^2.1.6",
     "npm": "^6.14.4",
     "socketio": "^1.0.0"
